@@ -1,0 +1,2 @@
+# Parsing-Executing-SimpleC
+Using F# we are parsing simple C code. If the give C code is valid and follows all simple C language rules, that have been implemented in Parser.fs, then ASM instructions are printed assessing what is happening in the Simple C code provided. After this the simple C code provided by the user is then executed, granted the Simple C code was successfully parsed and followed all given instructions.
